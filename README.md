@@ -4,7 +4,7 @@
 <br>
 <div align="center">
   
-![RAKIB](./rakib-avatar.png)
+![RAKIB](./file_00000000cffc62089f3aa93856ec967e.png)
 
 <h1 align="center">🌟 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 🌟</h1>
 </div>
